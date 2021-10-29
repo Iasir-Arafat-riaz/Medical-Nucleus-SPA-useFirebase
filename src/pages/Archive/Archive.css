@@ -1,0 +1,17 @@
+.archive{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.archive-div{
+  background-image: url(https://i.ibb.co/M7rs2Qk/book-library-with-old-open-textbook-stack-piles-literature-text-archive-reading-desk-1.png);
+  padding-bottom: 300px;
+  color: rgb(26, 94, 85);
+}
+.arch{
+  padding: 20px;
+}
+
+.arch-text{
+   text-shadow: 1px 1px 1px #cec8c8
+}

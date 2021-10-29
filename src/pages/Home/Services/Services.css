@@ -1,0 +1,14 @@
+.services-div {
+  margin: 20px;
+}
+.services {
+  /* margin-top:50px;
+  margin-bottom: 50px; */
+  margin: 50px;
+}
+.commmon-services{
+  color: darkblue;
+}
+.commmon-services:hover {
+  color: rgb(14, 96, 99);
+}

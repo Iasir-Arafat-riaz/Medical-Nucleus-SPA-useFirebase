@@ -1,0 +1,18 @@
+.details{
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid goldenrod;
+    background-color: rgb(229, 226, 226);
+    border-radius: 20px;
+}
+.detail-img{
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+}
+.Service-Detail-div{
+    margin-bottom: 80px;
+}
+.back-btn{
+    background-color: rgb(148, 199, 201);
+}

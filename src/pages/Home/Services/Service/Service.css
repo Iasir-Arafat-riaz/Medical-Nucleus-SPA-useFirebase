@@ -1,0 +1,18 @@
+
+.service-btn {
+  background-color: rgb(91, 116, 23);
+  padding: 10px;
+  color: cornsilk;
+  
+}
+.service-card {
+  height: 650px;
+  border-radius: 20px;
+  /* border-radius: 30px; */
+  /* margin: 20px; */
+}
+
+.service-btn:hover{
+  background-color: rgb(53, 53, 121);
+  color: goldenrod;
+}

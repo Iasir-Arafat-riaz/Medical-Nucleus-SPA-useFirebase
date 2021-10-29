@@ -1,0 +1,18 @@
+.dr-img{
+    width:100%;
+    border-radius: 20px;
+}
+.doctors{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 100px;
+}
+.single-dr{
+    padding: 10px;
+    color: rgb(43, 95, 97);
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
